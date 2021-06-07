@@ -42,3 +42,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/LanzVian"><img src="https://github-readme-stats.vercel.app/api?username=LanzVian&bg_color=30,e97655,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 </p>
+
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LanzVian" />
+</p>
