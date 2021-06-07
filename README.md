@@ -42,3 +42,8 @@ Here are some ideas to get you started:
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LanzVian" />
 </p>
+
+### *Follow Me*
+<h3>Instagram :</h3>
+
+[LanzVian](https://instagram.com/lanzvian)
