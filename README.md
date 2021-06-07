@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Tech Zone ID
 - 🌱 I’m currently learning Technology
 - 👯 I’m looking to collaborate on [LanzFanya](https://github.com/lanzfanya)
-- 🤔 I’m looking for help with BaszDeva
+- 🤔 I’m looking for help with LanzFanya
 - 💬 Ask me about Science
 - 📫 How to reach me: email
 
