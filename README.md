@@ -28,16 +28,15 @@ Here are some ideas to get you started:
   <a href="" />
   </img>
   </p>
-<p align="center" >
-  <img src="" width="100" height="100" alt="lanz" />
-  <img src="" width="100" height="100" alt="lanz" />
-  <img src="" width="100" height="100" alt="lanz" />
-  </p>
-<p align="center" >
-  <img src="" width="100" height="100" alt="lanz" />
-  <img src="" width="100" height="100" alt="lanz" />
-  <img src="" width="100" height="100" alt="lanz" />
-  <img src="" width="100" height="100" alt="lanz" />
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34f26" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
+  <img src="https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code" />
   </p>
 
 <p align="center">
