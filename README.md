@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ***Jobs :Progammer***
 <p align="center" >
-  <img src="" width="100" height="100" alt="jhg" >
+  <img src="n" width="100" height="100" alt="jhg" >
   <a href="" />
   </img>
   </p>
