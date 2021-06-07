@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ***Jobs :Progammer***
 <p align="center" >
-  <img src="" width="100" height="100" alt="jhg" >
+  <img src="https://avatars.githubusercontent.com/u/76142260?s=60&v=4" width="100" height="100" alt="jhg" >
   <a href="https://github.com/LanzVian" />
   </img>
   </p>
