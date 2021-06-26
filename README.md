@@ -1,13 +1,21 @@
 ### Hi there 👋
 
 ### Profile
-🔤
 
 ***Name :Vian***
 
 ***Age :21***
 
-***Jobs :Progammer***
+***Jobs :Progammer & Content Creator***
+
+***Information***
+
+>I’m currently working on : LyZone
+>
+>I’m currently learning on : Technological School
+>
+>Fun Fact : Cacao is not sweet
+
 <p align="center" >
   <img src="https://avatars.githubusercontent.com/u/76142260?s=60&v=4" width="100" height="100" alt="jhg" >
   <a href="https://github.com/LanzVian" />
@@ -33,6 +41,7 @@
 </p>
 
 ### Support Me
-[Instagram](https://instagram.com/lanzvian)
 
-[Facebook](http://facebook.com/vian.lnz)
+* [Instagram](https://intagram.com/lanzvian)
+* [Twitter](https://twitter.com/LanzVian)
+* [Trakteer](https://trakteer.id/lanzvian)
