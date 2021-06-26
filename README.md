@@ -17,7 +17,7 @@
 >Fun Fact : Cacao is not sweet
 
 <p align="center" >
-  <img src="https://avatars.githubusercontent.com/u/76142260?s=60&v=4" width="100" height="100" alt="jhg" >
+  <img src="https://github.com/LanzVian/LanzVian/blob/main/img/XjP_DceJ_400x400.jpg" width="100" height="100" alt="jhg" >
   <a href="https://github.com/LanzVian" />
   </img>
   </p>
