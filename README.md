@@ -37,8 +37,7 @@
 </p>
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanzVian&theme=light&hide=css,html"/>
-
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanzVian&layout=compact&theme=nightowl"/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LanzVian" />
 </p>
 
