@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux" />
   <img src="https://img.shields.io/badge/-C/C++-black?style=flat-square&logo=c" />
   <img src="https://img.shields.io/badge/-Php-black?style=flat-square&logo=php" />
-  <img src="https://img.shields.io/badge/-Css-black?style=flat-square&logo=css" />
+  <img src="https://img.shields.io/badge/-Scss-black?style=flat-square&logo=scss" />
   </p>
 
 <p align="center">
