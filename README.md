@@ -32,8 +32,8 @@
   <img src="https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code" />
   <img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux" />
   <img src="https://img.shields.io/badge/-C/C++-black?style=flat-square&logo=c" />
-  <img src="https://img.shields.io/badge/-Php-black?style=flat-square&logo=php" />
-  <img src="https://img.shields.io/badge/-Css-black?style=flat-square&logo=css" />
+  <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php" />
+  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572b6" />
   </p>
 
 <p align="center">
